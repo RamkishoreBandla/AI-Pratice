@@ -6,3 +6,15 @@ What is Instruction finetuning
 
 ![image](https://github.com/RamkishoreBandla/AI-Pratice/assets/35920097/46219331-ab07-4e92-84ff-28ca2c37ad19)
 
+
+Finetune data quality should be high for better output.
+- More Diverse
+- Real Data
+- More data is better
+
+Following are the steps to prepare your data
+![image](https://github.com/RamkishoreBandla/AI-Pratice/assets/35920097/626b1518-07b0-436e-b09c-e9bda9df9923)
+
+Tokeniation: Converting text to number, same/right tokenizer needs to be used based on model.
+Transformers autotokenizer finds the right tokenizer for the given model.
+
