@@ -18,3 +18,7 @@ Following are the steps to prepare your data
 Tokeniation: Converting text to number, same/right tokenizer needs to be used based on model.
 Transformers autotokenizer finds the right tokenizer for the given model.
 
+
+
+# RAG Notes
+![image](https://github.com/RamkishoreBandla/AI-Pratice/assets/35920097/e7e04d53-7dd7-4927-afee-9d3dcd1e8c7b)
